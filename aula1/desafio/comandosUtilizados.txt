@@ -1,0 +1,9 @@
+Comandos Utilizados para o desafio da aula dia 07-05-2024
+Dentro da pasta documentos, usei o comando "mkdir EstacaoEspacial" para criar o diretório, em seguida acesso o diretorio com o camando "cd EstacaoEspacial"
+Estando dentro da pasta uso "mkdir Habitacao Laboratorio Hangar" para criar os novos diretórios.
+Acesso a pasta Habitacao com o comando "cd Habitacao" e crio 3 quartos usando "mkdir 1 2 3" para os diretórios usados como quartos
+Uso "cd .." para retorna à pasta da EstacaoEspacial, em seguida utilizo "cd Laboratorio" para acessar a pasta e crio novos diretorios usando "mkdir pesquisa1 pesquisa2" e retorno a EstacaoEspacial com o comando "cd .."
+Vou ao hangar usando "cd Hangar" e crio espaços para as naves com "mkdir 1 2 3" e retorno com "cd .." (nesse momento estou no diretorio 'EstacaoEspacial')
+Removo o hangar utilizando "rm -r Hangar" 
+Crio um arquivo .txt usando "touch BoasVindas.txt" e escrevo no arquivo utilizando o comando "echo 'Bem-vindos à estação espacial' > BoasVindas.txt"
+Copio o arquivo para o laboratorio com o comando "cp BoasVindas.txt Laboratorio", acesso o laboratorio com "cd Laboratorio" e uso o comando "echo 'Bem-vindos à Estação Espacial, esse é o laboratorio' > BoasVindas.txt" para sobrescrever o arquivo original.

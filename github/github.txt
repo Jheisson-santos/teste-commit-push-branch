@@ -1,0 +1,26 @@
+Obejtivo: Capacitar os alunos a trabalharem com versionamento de código utilizando o git e o github
+É um sistema de controle de versão de código: 
+-> Versionamento
+-> Reversão de versões
+-> Acompanhar versões
+Sistema distribuido:
+-> Permite que cada DEV tenha uma cópia do sistema
+Branching:
+-> Ramificações (branche)
+Merging:
+-> As branches pode ser mescladas (merged)
+Desempenho:
+-> Operações locais rápidas
+Open source
+Integração com plataformas online:
+-> GitHub
+-> GitLab
+-> Bitbucket
+Funciona offline
+Plataforma de hospedagem de repositórios:
+-> Interface gráfica
+-> Ferramenta adicionais para colaboração
+Hospeda repositórios git na nuvem:
+-> Permite acesso e colaboração online
+-> Puxar - pull
+-> Empurrar - push
